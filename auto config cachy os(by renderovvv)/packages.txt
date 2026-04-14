@@ -1,0 +1,12 @@
+steam
+heroic-games-launcher
+discord
+obs-studio
+wine
+winetricks
+mangohud
+gamemode
+goverlay
+neofetch
+htop
+firefox
